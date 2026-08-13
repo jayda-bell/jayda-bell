@@ -46,9 +46,6 @@ I write code because I'm curious what happens when an idea gets built instead of
 `Python` · `Next.js` · `Supabase` · `Claude API / Anthropic SDK` · `Vercel` · `Figma` · `Prompt Engineering` · `Data Analysis` · `Product Design`
 
 ---
-<div align="center">
-
----
 ## What I'm Building
 
 **[Sailience](https://sailience.app)** — an AI-native productivity platform that generates a workflow system from a 12-question cognitive-style assessment, rather than forcing everyone into the same planning template. Built the full product with an assessment engine through a 10+ screen prototype and integrated the Claude API as the reasoning layer that turns assessment output into an individualized structure. Selected as a Stuart & Mimi Rose Startup Fellow to keep building it out.
