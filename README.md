@@ -55,39 +55,6 @@ I write code because I'm curious what happens when an idea gets built instead of
 
 ---
 
-## How I Think About Building
-
-- A tool is only as good as the decision it improves.
-- Individual signals break under different conditions. Systems that weigh multiple independent inputs age better than ones betting on a single model being right forever.
-- The most interesting work sits at the intersection of technical execution and the people it's actually for.
----
-
-## Experience
-
-**Founder & Product Designer**, Sailience — *March 2026–Present*
-Rose Startup Fellow. Shipped three product iterations from 10+ user interviews and usability sessions.
-
-**Assistant Executive Director & Co-Founder**, Leadership Genesis Project — *2023–2024*
-Co-founded a youth-led nonprofit focused on leadership development and scholarship access. Directed InternCX, a career-matching platform connecting students with employers.
-
-**Student Leaders Program Intern**, Bank of America — *Summer 2024*
-Designed and executed a mixed-methods evaluation framework — surveys, interviews, field observation all to assess a youth urban agriculture program, authoring a formal impact report for nonprofit leadership.
-
-**Students2Work Intern**, Downtown Development Authority of Augusta — *Summer 2023*
-Authored a 34-page small-business resource guide consolidating licensing, financing, and economic-development information from 50+ organizations.
-
----
-
-## Leadership & Involvement
-
-- **Ferguson Centers for Leadership Excellence**, Cohort IV — 1 of 5 Emory fellows selected
-- **NAACP, Emory Chapter** — Secretary; previously Internal Programming & Research Chair
-- **Lifting Our Voices, Inc., Emory Chapter** — Chief Marketing Officer
-
-**Honors:** Stuart & Mimi Rose Startup Fellow · Watson-Brown Scholar · Peach State Federal Credit Union Scholar
-
----
-
 If you're building in AI, product, or fintech, I'd love to hear about it!
 
 </div>
