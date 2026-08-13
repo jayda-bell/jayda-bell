@@ -53,8 +53,6 @@ I write code because I'm curious what happens when an idea gets built instead of
 
 **[Sailience](https://sailience.app)** — an AI-native productivity platform that generates a workflow system from a 12-question cognitive-style assessment, rather than forcing everyone into the same planning template. Built the full product with an assessment engine through a 10+ screen prototype and integrated the Claude API as the reasoning layer that turns assessment output into an individualized structure. Selected as a Stuart & Mimi Rose Startup Fellow to keep building it out.
 
-**Cryptocatcher** — an algorithmic trading system for Coinbase's nano Bitcoin futures, built on an ensemble decision architecture instead of a single strategy. Multiple independent signal models: momentum, mean-reversion, volatility regime detection that feed into an aggregation layer, with Claude sitting in as a reasoning check alongside the quantitative signals. A backtesting framework validates strategy variants against historical data before anything touches live capital, and an auto-optimization loop re-tunes parameters against rolling performance so the system adjusts as market regimes shift. Deployed on DigitalOcean via the GitHub Student Developer Pack.
-
 ---
 
 ## How I Think About Building
